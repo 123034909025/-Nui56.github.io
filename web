@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iNui56.com</title>
+    <style>
+        /* กำหนดลักษณะของโลโก้ */
+        #logo {
+            display: flex;
+            align-items: center;
+        }
+
+        /* กำหนดลักษณะของรูปภาพ */
+        #logo img {
+            width: 100px; /* ปรับขนาดตามที่ต้องการ */
+            height: 100px; /* ปรับขนาดตามที่ต้องการ */
+            margin-right: 100px; /* ปรับระยะห่างตามที่ต้องการ */
+        }
+
+        /* กำหนดลักษณะของข้อความหรือชื่อเว็บไซต์ */
+        #logo span {
+            font-size: 1.5em; /* ปรับขนาดตามที่ต้องการ */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <!-- โลโก้ -->
+    <div id="logo">
+        <!-- นำเข้ารูปภาพ -->
+        <img src="C:\Users\Acer\Desktop\SovaX_HUB\Config\LOGOMONKRY.jpg" alt="Logo Image">
+        <!-- เพิ่มข้อความหรือชื่อเว็บไซต์ -->
+        <h1>NuiSOcool</h1>
+        
+    </div>
+
+
+    <button id="myButton" onclick="alert('เลขบัญชี SCB : ยังฟรีไปก่อน')">ฝากเงิน</button>
+    <button id="myButton" onclick="KUYTOG()">ถอนเงิน</button>
+    <button id="myButton" onclick="slotgoto()">เล่นสล็อต</button>
+    <script>
+        // ฟังก์ชันสำหรับเปลี่ยนหน้าไปยัง URL ที่ต้องการ
+        function KUYTOG() {
+            // เปลี่ยน URL นี้เป็นที่ต้องการ
+            window.location.href = "https://www.xnxx.com/video-16zytq89/comi_o_gringo_que_encontrei_no_app";
+        }
+    </script>
+        <script>
+            // ฟังก์ชันสำหรับเปลี่ยนหน้าไปยัง URL ที่ต้องการ
+            function slotgoto() {
+                // เปลี่ยน URL นี้เป็นที่ต้องการ
+                window.location.href = "file:///C:/Users/Acer/Desktop/SovaX_HUB/Webbsite/slot.html";
+            }
+        </script>
+    <h1>มาหลอกเอาตังค์</h1>
+</body>
+</html>
